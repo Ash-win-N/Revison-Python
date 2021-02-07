@@ -1,1 +1,11 @@
 Creating First file in first repo
+
+** Commands used till mow
+
+GIT  CLONE      
+GIT  ADD        
+GIT  COMMIT	
+GIT  STATUS	
+GIT  LOG 	
+GIT  CHECKOUT	
+GIT  DIFF	
